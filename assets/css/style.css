@@ -1,0 +1,132 @@
+.nav-bar {
+    background-color: #FFF;
+    border-bottom: 3px solid #666666;
+    float: right;
+    line-height: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 100%;
+}
+
+.aboutme {
+    background-color: #FFF;
+    border: 2px solid #aa9acc;
+    border-radius: 5px;
+    border-top: solid 2px #aa9acc;
+    box-sizing: content-box;
+    clear: right;
+    color: #FFF;
+    display: block;
+    font-weight: normal;
+    height: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    position: relative;
+    text-align: left;
+    width: 960px;
+}
+
+.container {
+    background-color: #FFF;
+    border: 2px solid #aa9acc;
+    border-radius: 5px;
+    border-top: solid 2px #aa9acc;
+    box-sizing: content-box;
+    clear: right;
+    color: #FFF;
+    display: block;
+    font-weight: normal;
+    height: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    position: relative;
+    text-align: left;
+    width: 960px;
+}
+
+.image {
+    float: left;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    position: relative;
+}
+
+.paraone {
+    color: darkgray;
+    font-style: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px 20px 0px 20px;
+    position: relative;
+    text-align: left;
+}
+
+.paratwo {
+    color: darkgray;
+    font-style: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px 20px 0px 20px;
+    position: relative;
+    text-align: left;
+}
+
+.parathree {
+    color: darkgray;
+    font-style: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px 20px 0px 20px;
+    position: relative;
+    text-align: left;
+}
+
+
+.footer {
+    background-color:#666666;
+    border-top: 8px solid #aa9acc;
+    bottom: 0;
+    color: white;
+    font-size: 10px;
+    font-style: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    margin: 0;
+    padding: 20px;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+}
+
+.form {
+    background-color: #FFF;
+    border: 2px solid #aa9acc;
+    border-radius: 5px;
+    border-top: solid 2px #aa9acc;
+    box-sizing: content-box;
+    color: gray;
+    display: block;
+    font-size: medium;
+    font-style: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-weight: normal;
+    height: 650px;
+    margin-left:auto;
+    margin-right: auto;
+    padding: 20px;
+    position: relative;
+    width: 960px;
+}
+
+h1 {
+    color: #aa9acc;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px 20px 0px 20px;
+}
+
