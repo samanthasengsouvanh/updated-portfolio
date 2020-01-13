@@ -1,4 +1,4 @@
-# bootstrap-portfolio
+# updated-portfolio
 
 Deployed link: https://samanthasengsouvanh.github.io/updated-portfolio/
 
